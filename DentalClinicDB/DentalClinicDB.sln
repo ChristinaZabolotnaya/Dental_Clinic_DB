@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.37131.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "DentalClinicDB", "DentalClinicDB\DentalClinicDB.dwproj", "{5EDD2B21-682D-4D48-8183-32C28A98D097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EDD2B21-682D-4D48-8183-32C28A98D097}.Development|Default.ActiveCfg = Development
+		{5EDD2B21-682D-4D48-8183-32C28A98D097}.Development|Default.Build.0 = Development
+		{5EDD2B21-682D-4D48-8183-32C28A98D097}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8336A1E6-8A55-46D1-A4F5-C5595BF102E8}
+	EndGlobalSection
+EndGlobal
